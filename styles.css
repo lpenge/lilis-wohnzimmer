@@ -1,0 +1,54 @@
+.card_reactive:hover {
+    box-shadow: 0 0 10px 5px #f54242;
+}
+
+.middled {
+    margin-top: 4px;
+    margin-left: 4px;
+    margin-bottom: 4px;
+    margin-right:4px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.correct_size {
+    width:100%;
+    height:auto;
+    float:left;
+
+}
+
+.right_header {
+    float: right;
+}
+
+.half {
+    max-width:70%;
+    max-height: 30%;
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+}
+.right {
+    text-align:center;
+}
+
+.bg-custom-1 {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+@media screen and (min-width: 480px) {
+    .correct_size {
+        width:30%;
+    }
+    .right {
+        padding-top: 300px;
+    }
+}
+
+
+
