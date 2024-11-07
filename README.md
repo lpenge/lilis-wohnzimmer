@@ -1,5 +1,6 @@
-j
-		
+---
+permalink: /index.html
+---
 				<!-- Five -->
 					<section class="wrapper style1 align-center">
 						
