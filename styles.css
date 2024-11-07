@@ -1,5 +1,9 @@
 .card_reactive:hover {
-    box-shadow: 0 0 10px 5px #f54242;
+    box-shadow: 0 0 10px 5px #d5d3d3;
+}
+
+.lili-red {
+    color: #b01d3a;
 }
 
 .middled {
